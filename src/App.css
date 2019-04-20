@@ -1,0 +1,21 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#start {
+  background-color: #520294;
+padding: 100px;
+}
+
+#quiz-area {
+   padding: 100px;
+   margin: 200px;
+
+}
+
+h1{
+   font-size: 100px;
+}
